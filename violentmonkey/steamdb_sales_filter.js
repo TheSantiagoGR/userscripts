@@ -4,7 +4,7 @@
 // @match       https://steamdb.info/sales/*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      TehPsychedelic
 // @description 9/3/2022, 6:50:35 PM
 // ==/UserScript==
 
